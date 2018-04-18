@@ -18,15 +18,15 @@ Then the second serendipity came from a radio interview show I happen to have li
 
 For more context to this next part, I've always been the frugal one. After realizing that sizing sometimes is the only thing that differs significantly for something like say, t-shirts for men and women, I shop now across all the traditionally mutually exclusive sections of "men", "women", "children". I own quite a few things that are "men" or "kid" sized now, fitting the same and priced or marked down more significantly than their female/adult counterparts. I remember reading something quite a long time ago that explained the cost as more colors and style options having gone into the design for women.
 
-So for a backpack, I did the same. I stared hard and tried to pick up on the differences. Yes, sure, there are slight and various ways in which the pack was designed especially for women, from the dimensions to other details not captured by the descriptions (apparently, women’s backpacks today have more anatomically suitable hip belts). But what stood out to me more than anything were the names. Atmos for men, Aura for women. Ok, I thought, sure, names are names and have gender. And then I saw the colors: “Gamma Red”, “Challenger Blue”, “Vestal Grey” for women, “Rigby Red”, “Unity Blue”, “Abyss Grey” for men. I had to look up what Vestal means. Is it really necessary to prescribe another descriptor to colors? I can assure you that the colors are the same indistinguishable shade of red, blue, and grey. It felt like an extremely unnecessary aspect to segregate on.
+So for a backpack, I did the same. I stared hard and tried to pick up on the differences. Yes, sure, there are slight and various ways in which the pack was designed especially for women, from the dimensions to other details not captured by the descriptions (apparently, women’s backpacks today have more anatomically suitable hip belts). But what stood out to me more than anything were the names. Atmos for men, Aura for women. Ok, I thought, sure, names have ineherent gender associations. And then I saw the colors: “Gamma Red”, “Challenger Blue”, “Vestal Grey” for women, “Rigby Red”, “Unity Blue”, “Abyss Grey” for men. I had to look up what Vestal means. Is it really necessary to prescribe another descriptor to colors? I can assure you that the colors are the same indistinguishable shade of red, blue, and grey. It felt like an extremely unnecessary aspect to segregate on.
 
 From there I just started thinking; what other products that has a gender divide but are essentially the same? 
-Deodorant
-Shampoo
-Glasses
-Razors 
-T-shirt
-Running Shoes
+Deodorant?
+Shampoo?
+Glasses?
+Razors?
+T-shirt?
+Running Shoes?
 Socks?
 Oral care?
 
