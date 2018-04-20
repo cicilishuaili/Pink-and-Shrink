@@ -34,7 +34,7 @@ On Amazon at first glance, there’s only clothes and toys that are obviously se
 
 
 ## Problem
-Can we predict the "gender" of an item, solely based on its descriptions?
+How do product descriptions varies across the gender aisle? Are they a reflection of specilized functional design or an appeal to more stereotypical perception? Can we predict the "gender" of an item, solely based on its descriptions?
 
 ## Data Source
 There is no online market more ubiquitous than Amazon. The product descriptions can be available via their Amazon Product Advertisement API. Although it is a bit restrictive in the amount of information that is easily accessible, it will do as initial exploration that can still reveal useful insights.
@@ -46,4 +46,8 @@ The basic plan of approach thus far:
 2. Obtain product descriptions for items that are for women vs. men.
 2. Use NLP and other techniques to determine the key differences among the two categories of description. Naive bayes seems like a good place to start given its simplicity and ease of interpretation.
 
-I look forward to learning various useful tools concerning NLP in particular. The project can be extended to other regions/languages if suitable data sources are found, and may prove more interesting since many languages have grammatical gender, naturally lending itself to the larger question of not just product design, but inherent perception of items as a certain gender. 
+I look forward to learning various useful tools concerning NLP in particular. The project can be extended to other regions, to see if there are differences across the English speaking regions, or if they reinforce patterns. Different languages is a reach but may prove more interesting since many languages have grammatical gender, naturally lending itself to the larger question of not just product design, but inherent perception of items as a certain gender. 
+
+## Deliverables
+
+Easy to interpret graphics that exhibit simple yet profound insights of the world of gendered product descriptions. 
