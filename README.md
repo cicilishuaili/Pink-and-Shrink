@@ -8,30 +8,7 @@ The pervasiveness of the feminine connotation and the ability for that to transf
 Fascinated by the ways description and perceptions are embedded in our lives, I aim to probe at the intersection of objects, language, and gender.
 
 ## Story (optional reading)
-There has been a series of arrows that directed me to this place.
-
-I have spent months and months trying to formulate an interesting question that can be answered, at least asked, with data I can obtain on a scale I can manage. Through one of the podcasts I listen to, I stumbled upon the study aforementioned concern how objects are described in languages with grammatical gender. Something about it lingered. I was sure I wanted to do something related to the topic of technology and gender. As a high schooler I once delved into the question of why there weren't more women in the STEM fields as part of a spanning senior project. It only seemed appropriate enough now, with my having gone through the engineering education that seems to be pushing progress only to end up amongst almost all exclusive male colleagues, wishing I were instead a software engineerer having to deal with this problem.
-
-With this as my filter, I started to sense some potential. My first idea that did not pan through had involved the voice of the online dictionaries. Maybe, I had thought, that there would be a pattern to which voice said what words. It seems like a stretch, but it was at least one I can beging to investigate. After learning to scrape mp3 files, extracting audio features, and trying some machine learning algorithms to classify the voice gender, I felt like I had reached the end of the data. If there were any interesting pattern or story, I certainly wouldn't have been able to find it.
-
-Then the second serendipity came from a radio interview show I happen to have listened to one very early Sunday morning drive. The phrase "Pink and Shrink" came up in terms of making products for women. The precise context of the interview has been lost on me since, perhaps it was outdoor equipment, but I definitely started to notice. At around the same time, I started to look for a backpack for backpacking trips. 
-
-For more context to this next part, I've always been the frugal one. After realizing that sizing sometimes is the only thing that differs significantly for something like say, t-shirts for men vs. women, I now often shop across all the traditionally mutually exclusive sections of "men", "women", and sometimes "children" and own quite a few things that are "men" or "kid" sized now. They fit similarly and are usually priced or marked down more significantly than their female/adult counterparts. I vaguely remember reading something quite a long time ago that explained the cost difference as more colors and style options having gone into the design for women.
-
-So for the backpack, I did the same. I stared hard and tried to pick up on the differences. Yes, sure, there are slight and various ways in which the pack was designed especially for women, from the dimensions to other details not captured by the descriptions (apparently, some women’s backpacks today have more anatomically suitable hip belts). But what stood out to me more than anything were the names. Atmos and Baltoro for men, Aura and Deva for women. Ok, I thought, sure names have inherent gender associations. And then I saw the colors: “Gamma Red”, “Challenger Blue”, “Vestal Grey” for women, “Rigby Red”, “Unity Blue”, “Abyss Grey” for men. I had to look up what Vestal means (apparently mostly in the vestal virgins sense). Is it really necessary to prescribe another descriptor to colors? I can assure you that the colors are the same indistinguishable shade of red, blue, and grey. It felt like an extremely unnecessary aspect to segregate and elaborate on.
-
-From there I just started thinking; what other products that has a gender divide but are essentially the same? 
-Deodorant?
-Shampoo?
-Glasses?
-Razors?
-T-shirt?
-Running Shoes?
-Socks?
-Oral care?
-
-On Amazon at first glance, there’s only clothes and toys that are obviously segregated by men and women. But then there’s men’s grooming as a subcategories. And then upon further clicking, you will find that it is "perfume" for her, "cologne" for him. And so I dug right in!
-
+[Read about it here](https://github.com/cicilishuaili/Pink-and-Shrink/blob/master/Optional_Origin_Story.md)
 
 ## Problem
 How do product descriptions vary across the gender aisle? Are they a reflection of specilized functional design or an appeal to more stereotypical perception? Can we predict the "gender" of an item, solely based on its descriptions?
