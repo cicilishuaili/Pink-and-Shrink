@@ -14,7 +14,9 @@ Fascinated by the ways description and perceptions are embedded in our lives, I 
 How do product descriptions vary across the gender aisle? Are they a reflection of specilized functional design or an appeal to more stereotypical perception? Can we predict the "gender" of an item, solely based on its descriptions?
 
 ## Data Source
-There is no online market more ubiquitous than Amazon. The product descriptions can be available via their Amazon Product Advertisement API, requiring an associates account (free). Although it is a bit restrictive in the amount of information that is accessible (e.g. they only allow a search to fetch 10 pages instead of the old 100 back in the days), it will do as initial exploration that can still reveal useful insights. Perhaps when one feels ambitious, scraping will be a fun project to take on.
+There is no online market more ubiquitous than Amazon. The product descriptions can be available via their Amazon Product Advertisement API, requiring an associates account (free). Although it is a bit restrictive in the amount of information that is accessible (e.g. they only allow a search to fetch 10 pages instead of the old 100 back in the days), it will do as initial exploration that can still reveal useful insights. 
+
+Since I am a relatively new to interacting with APIs, I looked for and used one of the more [well documented wrapper for Python](https://python-amazon-product-api.readthedocs.io/en/latest/index.html). It performs adequately and serves its purpose well for now at least. I also recently just found another (perhaps more flexible wrapper)[https://github.com/lionheart/bottlenose], to experiment with in the future should I want to do something like play with the parsing option. I don't foresee the need, unless one feels particularly ambitious, for scraping, especially since amazon's robots.txt seem to be quite restrictive.
 
 ## Analysis
 The basic plan of approach thus far:
@@ -27,4 +29,4 @@ I look forward to learning various useful tools concerning NLP in particular. Th
 
 ## Deliverables
 
-Easy to interpret graphics that exhibit simple yet profound insights into the world of gendered product descriptions.
+Easy to interpret graphics that exhibit simple yet profound insights into the world of gendered product descriptions. Once I get more comfortable with basic Flask/Django and Heroku deployment, I would really love to deliver an interactive graphics app to showcase and highlight interesting findings.
