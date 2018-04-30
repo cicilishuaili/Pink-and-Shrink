@@ -18,6 +18,8 @@ There is no online market more ubiquitous than Amazon. The product descriptions 
 
 Since I am a relatively new to interacting with APIs, I looked for and used one of the more [well documented wrapper for Python](https://python-amazon-product-api.readthedocs.io/en/latest/index.html). It performs adequately and serves its purpose well for now at least. But the big thing I realized a bit late is that its compatibility is limited to Python 2.7 so I may be motivated to switch to one that also supports Python 3. There is another (perhaps more flexible wrapper)[https://github.com/lionheart/bottlenose], to experiment with in the future should I want to do something like play with the parsing option. I don't foresee the need, unless one feels particularly ambitious, for scraping, especially since amazon's robots.txt seem to be quite restrictive.
 
+The sections of the API output that I will be using as product description is technically called "Editorial Review". It is the section you see often to the right of the picture, traditionally under the prices. They vary from nonexistent to brief or generic to detailed.
+
 ## Analysis
 The basic plan of approach thus far:
 
