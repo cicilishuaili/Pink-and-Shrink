@@ -1,0 +1,1 @@
+An elegant presentation box containing 12 samples. Each sample contains one of the current Amouage fragrances.

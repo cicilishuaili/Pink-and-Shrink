@@ -1,0 +1,5 @@
+Part Number	2-SS
+Item Shape	unique
+Display Type	analogue
+Band Material	Stainless steel
+Band width	20 millimeters

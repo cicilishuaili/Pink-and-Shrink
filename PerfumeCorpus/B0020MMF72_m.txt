@@ -1,0 +1,5 @@
+scent strength: moderate
+scent life: 6-10 hours
+recommended use: casual
+recommended age: mature
+classification: citrus/fruity
